@@ -10,7 +10,7 @@ Task: Binary image classification (Cat vs Dog)
 
 The CNN extracts spatial features from images through convolutional layers and uses fully connected layers for classification.
 
-Dataset Size: 20,000+ labeled images
+Dataset Size: 25,000+ labeled images (12,500 Dogs and 12,500 Cats)
 
 Classes: Cats, Dogs
 
